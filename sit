@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gael.web</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="icon" type="image/x-icon" href="images.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+
+<section>
+ <header>
+   <h1 style="border:2px solid LightGray; text-align: center;">Mes liens</h1>
+ </body>
+</header>
+</section>
+
+
+
+<section>
+ <a href="https://scoresaber.com/u/76561199279398314">
+     <img src="SCS.png" alt="Score Saber" style="width:42px;height:42px;">
+ </a>
+</section>
+
+<p></p>
+
+<section>
+ <a href="https://twitter.com/nayso_7">
+  <img src="twitter.png" alt="Twitter" style="width:42px;height:42px;">
+ </a>
+</section>
+
+
+<section>
+ <footer>
+  <p style="background-color:#F0F0F2; text-align: center">by Gael Marquet | update : 01/06/2023</p>                      
+ </footer>
+</section>
+
+ 
